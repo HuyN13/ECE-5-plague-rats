@@ -1,5 +1,5 @@
 body{
-  background-image: url('https://lanecdr.org/wp-content/uploads/2019/08/placeholder.png'); /*Seeting the background image. Ypu can change this by changing the link!*/ 
+  background-image: url('https://www.topquadrant.com/wp-content/uploads/2019/01/tech-background-image-10.jpg'); /*Seeting the background image. Ypu can change this by changing the link!*/ 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,7 +30,7 @@ body{
     padding: 0rem 2rem 1rem 2rem;
     margin-bottom: 2.5rem;
     color: white; /*text color*/
-    background: rgb(46, 46, 46, 0.6);/* you can find the color combination online - google css color picker. The last value (0.6) is the opacity */
+    background: rgb(36, 87, 121);/* you can find the color combination online - google css color picker. The last value (0.6) is the opacity */
   }
 
   .box2 { 
@@ -89,7 +89,7 @@ p2 {
   margin-bottom: 10px;
   margin-top: 10px;
   width: 100%;
-  background-color: rgb(255,255,255); /*you can change color by changing the HEX code*/
+  background-color: rgb(202, 225, 204); /*you can change color by changing the HEX code*/
 }
 
 .btn:hover {
